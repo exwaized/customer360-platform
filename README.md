@@ -92,6 +92,4 @@ per event — same format as the Distributed Anomaly Detection Engine's logs).
   where you'd need incremental materialization or a proper orchestrator
   (Airflow/Dagster) instead of a single Python script.
 
-## Next steps (not yet built)
-- Step 8 (optional): Thin FastAPI/Streamlit query layer over the
-  materialized tables
+
