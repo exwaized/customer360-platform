@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+automation/logs/*.jsonl
+.DS_Store
